@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a7ab06d-a43c-4bfe-a795-eb2f7759c487" name="Default Changelist" comment="" />
+    <list default="true" id="9a7ab06d-a43c-4bfe-a795-eb2f7759c487" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ABB/com/company/ArvoreBinariaBusca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ABB/com/company/ArvoreBinariaBusca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ABB/com/company/ArvoreBinariaBuscaView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ABB/com/company/ArvoreBinariaBuscaView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ABB/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ABB/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ABB/com/company/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ABB/com/company/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ArvoreBinariaBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ArvoreBinariaBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Node.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RUGzPQoxa6G9y4PfwW7tIQJa2g" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -60,10 +79,22 @@
       <option name="presentableId" value="Default" />
       <updated>1569714523094</updated>
       <workItem from="1569714524584" duration="339000" />
+      <workItem from="1569881693978" duration="4130000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

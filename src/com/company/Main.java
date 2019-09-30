@@ -12,9 +12,18 @@ public class Main {
         arvore.insert(50);
         arvore.insert(20);
         arvore.insert(60);
-        arvore.insert(70);
-        arvore.insert(80);
         arvore.insert(150);
+        arvore.insert(120);
+        arvore.insert(160);
+        arvore.insert(10);
+        arvore.insert(5);
+        arvore.insert(110);
+        arvore.insert(105);
+
+
+
+
+
 
         System.out.println(arvore.isBalanced());
 

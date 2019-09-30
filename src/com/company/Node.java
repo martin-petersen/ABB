@@ -61,7 +61,6 @@ public class Node {
 
     public int defBalance() {
         int l = 0, r = 0, A = 0;
-
         if(this.left != null) {
             l++;
             l += this.left.defBalance();
@@ -72,7 +71,6 @@ public class Node {
         }
 
         A = l - r;
-
 
         if(A == 1 || A == 0 || A == -1) {
             this.setBalance(true);
@@ -90,16 +88,16 @@ public class Node {
     }
 
     public boolean checkBalance() {
-
-        if(this.left == null || this.right == null) {
-            return this.balance;
-        } else {
-            if(this.left.balance && this.right.balance) {
-                return true;
+        if(this.left != null && this.right != null) {
+            if(this.left.checkBalance() && this.right.checkBalance()) {
+                this.setBalance(true);
+                return this.balance;
             } else {
                 this.setBalance(false);
-                return false;
+                return this.balance;
             }
+        } else {
+            return this.balance;
         }
     }
 

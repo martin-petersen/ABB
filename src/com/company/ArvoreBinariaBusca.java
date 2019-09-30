@@ -18,7 +18,6 @@ public class ArvoreBinariaBusca {
             return;
         }
         raiz.insert(node);
-        isBalanced();
     }
 
     public void insert(int value) {
